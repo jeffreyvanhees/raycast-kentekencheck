@@ -1,6 +1,6 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "dutch-license-plate-search",
+  "name": "rdw-kentekencheck",
   "title": "Dutch License Plate (Search)",
   "description": "Shows details about Dutch cars by their license plate",
   "icon": "list-icon.png",
