@@ -12,8 +12,8 @@
   "commands": [
     {
       "name": "index",
-      "title": "RDW Kentekencheck",
-      "subtitle": "Search details about Dutch cars by their license plate",
+      "title": "Dutch License Plate (Search)",
+      "subtitle": "Search RDW database for Dutch license plates",
       "description": "Shows details about Dutch cars by their license plate",
       "mode": "view",
       "icon": "list-icon.png"
